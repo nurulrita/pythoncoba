@@ -1,0 +1,4 @@
+a = input ("masukan angka maks: ")
+while a <= 5:
+    print a,
+    a = a+1
